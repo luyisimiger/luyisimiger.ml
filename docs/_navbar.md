@@ -1,5 +1,5 @@
 * [INICIO](/)
 
-* [PROYECTOS](/proyectos)
+* [PROYECTOS](/proyectos.md)
 
-* [CONTACTO](/contacto)
+* [CONTACTO](/contacto.md)
